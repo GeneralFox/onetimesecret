@@ -2,5 +2,5 @@
 log
 tmp
 .rudy
-
+redisdb
 .DS_Store
